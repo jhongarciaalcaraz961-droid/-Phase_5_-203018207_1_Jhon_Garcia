@@ -22,7 +22,7 @@ Building management faces a critical challenge due to the waste of resources in 
 ## Repository Contents
 
 - `Phase_4__203018207_1_Jhon_Garcia.ipynb` — Main notebook with the full descriptive analysis.
-- `Smart Building System_EDA.csv` — Dataset used for the analysis (255 records).
+- `Smart Building System_EDA.csv` — Dataset used for the analysis (120,439 records).
 - `README.md` — This file.
 
 ## Dataset
