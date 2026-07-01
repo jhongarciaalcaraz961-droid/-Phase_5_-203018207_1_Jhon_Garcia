@@ -30,10 +30,11 @@ Building management faces a critical challenge due to the waste of resources in 
 Each room includes 5 types of measurements: CO2 concentration, room air humidity, room temperature, luminosity, and PIR motion sensor data, collected over a period of one week from Friday, August 23, 2013 to Saturday, August 31, 2013.
 
 ## Forum Collaboration Evidence
-*pending upload evidence*
+<img width="1492" height="785" alt="image" src="https://github.com/user-attachments/assets/261afcfc-5943-48da-ac3c-c6c934a2f97c" />
+
 
 ## Explanatory Video
-*pending upload video*
+*https://youtu.be/1PGAJ2HNLek*
 
 ## How to Run This Project
 1. Open `Phase_4__203018207_1_Jhon_Garcia.ipynb` in Google Colab or Jupyter Notebook.
