@@ -1,4 +1,4 @@
-# Phase 4 - Solution Implementation and Descriptive Analysis
+# Phase 5 - Presentation of results and evaluation
 
 ## Project Information
 - **Student:** Jhon Jairo Garcia Alcaraz
@@ -21,7 +21,7 @@ Building management faces a critical challenge due to the waste of resources in 
 
 ## Repository Contents
 
-- `Phase_4__203018207_1_Jhon_Garcia.ipynb` — Main notebook with the full descriptive analysis.
+- `Phase_5__203018207_1_Jhon_Garcia.ipynb` — Main notebook with the full descriptive analysis.
 - `Smart Building System_EDA.csv` — Dataset used for the analysis (120,439 records).
 - `README.md` — This file.
 
