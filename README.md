@@ -37,6 +37,6 @@ Each room includes 5 types of measurements: CO2 concentration, room air humidity
 *https://youtu.be/1PGAJ2HNLek*
 
 ## How to Run This Project
-1. Open `Phase_4__203018207_1_Jhon_Garcia.ipynb` in Google Colab or Jupyter Notebook.
+1. Open `Phase_5__203018207_1_Jhon_Garcia.ipynb` in Google Colab or Jupyter Notebook.
 2. Upload `Smart Building System_EDA.csv` to the session storage.
 3. Run all cells sequentially.
